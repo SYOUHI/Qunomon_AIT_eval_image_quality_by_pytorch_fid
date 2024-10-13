@@ -1,0 +1,29 @@
+{
+    "AIT": {
+        "Name": "eval_image_quality_by_pytorch_fid",
+        "Version": "1.0"
+    },
+    "ExecuteInfo": {
+        "StartDateTime": "2024-10-14T05:31:36+0900",
+        "EndDateTime": "2024-10-14T05:35:22+0900",
+        "MachineInfo": {
+            "cpu_brand": "13th Gen Intel(R) Core(TM) i9-13900H",
+            "cpu_arch": "X86_64",
+            "cpu_clocks": "2.9952 GHz",
+            "cpu_cores": "20",
+            "memory_capacity": "33452142592"
+        }
+    },
+    "Result": {
+        "Measures": [
+            {
+                "Name": "FID_Score",
+                "Value": "43.357010269116614"
+            },
+            {
+                "Name": "FID_Score",
+                "Value": "43.35701027"
+            }
+        ]
+    }
+}

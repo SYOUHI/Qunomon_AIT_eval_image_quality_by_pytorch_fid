@@ -1,0 +1,21 @@
+{
+  "Inventories": [
+    {
+      "Name": "benchmark_image_dir",
+      "Value": "/usr/local/qai/inventory/benchmark_image_dir"
+    },
+    {
+      "Name": "pytorch_model",
+      "Value": "/usr/local/qai/inventory/pytorch_model/cyclegansummer2winter.pth"
+    }
+  ],
+  "MethodParams": [
+    {
+      "Name": "target_domain",
+      "Value": "winter"
+    }
+  ],
+  "testbed_mount_volume_path": "/usr/local/qai/mnt",
+  "run_id": 1,
+  "job_id": 1
+}
